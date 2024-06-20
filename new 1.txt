@@ -1,0 +1,492 @@
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 217, Column 1 (Impl)): C0046:  Identifier 'byP4_C1_B2_M1_4by_DI0_7' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 217, Column 1 (Impl)): C0046:  Identifier 'byP4_C1_B2_M1_4by_DO0_7' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 194, Column 1 (Impl)): C0046:  Identifier 'byP4_M3_DX561_DO0_7' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 192, Column 1 (Impl)): C0046:  Identifier 'byP4_M3_DX561_DI0_7' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 30, Column 1 (Impl)): C0046:  Identifier 'bP4_M6_DC532_DI5' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 29, Column 1 (Impl)): C0046:  Identifier 'bP4_M6_DC532_DI4' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 28, Column 1 (Impl)): C0046:  Identifier 'bP4_M6_DC532_DI3' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 27, Column 1 (Impl)): C0046:  Identifier 'bP4_M6_DC532_DI2' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 26, Column 1 (Impl)): C0046:  Identifier 'bP4_M6_DC532_DI1' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 25, Column 1 (Impl)): C0046:  Identifier 'bP4_M6_DC532_DI0' not defined
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: PLC_4_PRG [PLC_4: PLC Logic: Application](Line 24, Column 1 (Impl)): C0046:  Identifier 'byP4_M6_DC532_DI0_7' not defined
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: PLC_2: The object GUID '4e76fa16-8ee8-4d8b-b157-edcce91a0e26' is not valid.
+[ERROR]         AB_v2.6.0.179_#179_ST_PM5630: Library Manager [PLC_7: PLC Logic: Application]: Could not open library '#AC500_CM598CanAsync'. (Reason: The placeholder library 'AC500_CM598CanAsync' could not be resolved.)
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: Slot_2 [PLC_7: Extension_Bus]: Device description for 'Slot_2' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: CAN [PLC_7: Interfaces]: Device description for 'CAN' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: COM [PLC_7: Interfaces]: Device description for 'COM' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: CAN [PLC_6: Interfaces]: Device description for 'CAN' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: COM [PLC_6: Interfaces]: Device description for 'COM' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: CAN [PLC_5: Interfaces]: Device description for 'CAN' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: Slot_2 [PLC_4: Extension_Bus]: Device description for 'Slot_2' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: CAN [PLC_4: Interfaces]: Device description for 'CAN' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: Slot_2 [PLC_3: Extension_Bus]: Device description for 'Slot_2' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: COM [PLC_2: Interfaces]: Device description for 'COM' is missing
+[WARNING]       AB_v2.6.0.179_#179_ST_PM5630: COM [PLC_1: Interfaces]: Device description for 'COM' is missing
+Text            creating project "PLC_4" ..... --> done
+Text            ----------- PLC_5 -----------
+Text            creating project "PLC_5" ..... --> done
+Text            ----------- PLC_6 -----------
+Text            creating project "PLC_6" ..... --> done
+Text            ----------- PLC_7 -----------
+Text            safety PLC added !!
+Text            creating Safety CODESYS V2.3 ..... --> done IP = 192.168.4.134 Router
+Text            creating project "PLC_7" ..... --> done
+Text            ----------- PLC_4 -----------
+Text            scan netway ....
+Text            compiling and generating code .....
+Text            PLC 1 --> done !
+Text            PLC 2 --> done !
+Text            PLC 3 --> done !
+Text            PLC 4 --> done !
+Text            PLC 5 --> done !
+Text            PLC 6 --> done !
+Text            PLC 7 --> done !
+Text            --- SCRIPT FINISHED! ---
+Text            ---> done!
+Text            project created successfully and saved as "Destop\c:\\users\\Test\\Desktop\\001_created_Project\\"
+Text            creating project "PLC_3" ..... --> done
+Text            creating project "PLC_2" ..... --> done
+Text            project "master_control" created successfully
+Text            ----------- Master controller -----------
+Text            CPU added successfully
+Text            Interface configuated successfully
+Text            IO modul added successfully
+Text            ---- Set parameters of IO modules ....
+Text            ---- IO modul parameters set successfully
+Text            ---- Set Io mapping of IO modules .... --->
+Text            Coupler added successfully
+Text            ----------- PLC_3 -----------
+Text            import CoDeSys v2 project and set communication parameter...
+Text            creating project "Master PLC" ..... --> done
+Text            ----------- PLC_1 -----------
+Text            Librarys added successfully
+Text            ---- Set IO mapping of IO modules ....
+Text            ---- IO mapping set successfully
+Text            set gateway and IP address of PLC device
+Text            gateway setting done successfully
+Text            creating project "PLC_1" ..... --> done
+Text            ----------- PLC_2 -----------
+Text            CODESYS V2.3 is imported
+Text            AB Version : = AB v2.6.0.179 #179
+Text            ======================================== The config tree of the 1 subproject =======================================================
+Text            0.-1 Device: "PLC_4", 5 connectors
+Text            ___ 0.-1.1 connector interface = ABB.CPU
+Text            _Connector: Id=1, role=Parent, name="CPU", interface="ABB.CPU", 24 parameters
+Text            _______Parameter: Id=37, name="PM5xx Type", value=PM5630-2ETH
+Text            _______Parameter: Id=38, name="Terminal Base Type", value=TB5620-2ETH
+Text            _______Parameter: Id=60, name="Auto run", value=0
+Text            _______Parameter: Id=61, name="Error LED / Failsafe function", value=0
+Text            _______Parameter: Id=62, name="Warmstart", value=0
+Text            _______Parameter: Id=63, name="Reaction on floating point exception", value=0
+Text            _______Parameter: Id=66, name="Check battery", value=0
+Text            _______Parameter: Id=67, name="Behaviour of outputs in stop", value=0
+Text            _______Parameter: Id=68, name="Stop on error class", value=2
+Text            _______Parameter: Id=1000, name="Error LED", value=0
+Text            _______Parameter: Id=1001, name="Check battery", value=0
+Text            _______Parameter: Id=1002, name="Stop on error class", value=2
+Text            _______Parameter: Id=1003, name="Diagnosis - Add PLC name to node name", value=0
+Text            _______Parameter: Id=1004, name="PLC behaviour after voltage dip", value=1
+Text            _______Parameter: Id=1005, name="Diagnosis History", value=1
+Text            _______Parameter: Id=1006, name="Max. diagnosis history entries", value=2000
+Text            _______Parameter: Id=1007, name="Missed cycle behavior", value=1
+Text            _______Parameter: Id=1009, name="Communication Schema", value=0
+Text            _______Parameter: Id=1010, name="Automated reboot after E2 error", value=0
+Text            _______Parameter: Id=1011, name="Max. number of extended diagnosis data", value=32
+Text            _______Parameter: Id=11900, name="Checksum", value=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Text            _______Parameter: Id=11901, name="Use CRC", value=1
+Text            _______Parameter: Id=11902, name="Checksum-PLC", value=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Text            _______Parameter: Id=2415919104, name="Diagnosis Text List Name", value='Diag_V3_PLC'
+Text            ___ 0.-1.2 connector interface = ABB.IOBus
+Text            _Connector: Id=2, role=Parent, name="I/O-Bus", interface="ABB.IOBus", 0 parameters
+Text            ___ 0.-1.3 connector interface = ABB.Interfaces
+Text            _Connector: Id=3, role=Parent, name="Interfaces", interface="ABB.Interfaces", 0 parameters
+Text            ___ 0.-1.4 connector interface = ABB.ExtensionBus
+Text            _Connector: Id=5, role=Parent, name="Communication modules", interface="ABB.ExtensionBus", 0 parameters
+Text            ___ 0.-1.5 connector interface = ABB.Licensing
+Text            _Connector: Id=6, role=Parent, name="Licensing", interface="ABB.Licensing", 1 parameters
+Text            _______Parameter: Id=100, name="Number of licenses", value=0
+Text            ___1.1 Device: "IO_Bus", 2 connectors
+Text            ______ 1.1.1 connector interface = ABB.IOBus
+Text            ______Connector: Id=1, role=Child, name="I/O-Bus", interface="ABB.IOBus", 10 parameters
+Text            __________Parameter: Id=110, name="Run on config fault", value=1
+Text            __________Parameter: Id=112, name="Max wait run", value=5000
+Text            __________Parameter: Id=113, name="Min bus cycle time", value=500
+Text            __________Parameter: Id=114, name="Max failure in succession", value=50
+Text            __________Parameter: Id=115, name="Reserve Word 0", value=0
+Text            __________Parameter: Id=116, name="Reserve Word 1", value=0
+Text            __________Parameter: Id=117, name="Reserve Word 2", value=0
+Text            __________Parameter: Id=11900, name="Checksum", value=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Text            __________Parameter: Id=11901, name="Use CRC", value=1
+Text            __________Parameter: Id=2415919104, name="Diagnosis Text List Name", value='Diag_IO_Bus'
+Text            ______ 1.1.2 connector interface = ABB.IOBus.Module
+Text            ______Connector: Id=2, role=Parent, name="I/O-Bus", interface="ABB.IOBus.Module", 0 parameters
+Text            ___1.2 Device: "Interfaces", 5 connectors
+Text            ______ 1.2.1 connector interface = ABB.Interfaces
+Text            ______Connector: Id=1, role=Child, name="Interfaces", interface="ABB.Interfaces", 0 parameters
+Text            ______ 1.2.2 connector interface = ABB.BACnet.Server
+Text            ______Connector: Id=10, role=Parent, name="COM1", interface="ABB.BACnet.Server", 0 parameters
+Text            ______ 1.2.3 connector interface = ABB.COM1
+Text            ______Connector: Id=20, role=Parent, name="COM1", interface="ABB.COM1", 0 parameters
+Text            ______ 1.2.4 connector interface = ABB.CAN
+Text            ______Connector: Id=21, role=Parent, name="CAN", interface="ABB.CAN", 0 parameters
+Text            ______ 1.2.5 connector interface = ABB.Ethernet
+Text            ______Connector: Id=22, role=Parent, name="Ethernet", interface="ABB.Ethernet", 0 parameters
+Text            ______2.0 Device: "P4_COM1", 2 connectors
+Text            _________ 2.0.1 connector interface = ABB.COM1
+Text            ___________Connector: Id=1, role=Child, name="COM 1", interface="ABB.COM1", 7 parameters
+Text            _____________Parameter: Id=110, name="Run on config fault", value=1
+Text            _____________Parameter: Id=200, name="Baudrate", value=115200
+Text            _____________Parameter: Id=201, name="Parity", value=0
+Text            _____________Parameter: Id=202, name="Data Bits", value=8
+Text            _____________Parameter: Id=203, name="Stop Bits", value=1
+Text            _____________Parameter: Id=204, name="Flow control", value=0
+Text            _____________Parameter: Id=210, name="Serial communication node", value=1
+Text            _________ 2.0.2 connector interface = ABB.COM1.CAA.SerialCom
+Text            ___________Connector: Id=2, role=Parent, name="COM1", interface="ABB.COM1.CAA.SerialCom", 0 parameters
+Text            _________3.0 Device: "P4_COM1_Modebus_RTU_Server_RS485", 2 connectors
+Text            ____________ 3.0.1 connector interface = ABB.Serial.ModbusRTU.Server
+Text            ________________Connector: Id=1, role=Child, name="Modbus RTU Server", interface="ABB.Serial.ModbusRTU.Server", 6 parameters
+Text            ________________Parameter: Id=11102, name="Address", value=4
+Text            ________________Parameter: Id=11140, name="Disable write to %MB0.x from", value=0
+Text            ________________Parameter: Id=11141, name="Disable write to %MB0.x to", value=0
+Text            ________________Parameter: Id=11142, name="Disable read to %MB0.x from", value=0
+Text            ________________Parameter: Id=11143, name="Disable read to %MB0.x to", value=0
+Text            ________________Parameter: Id=11356, name="Byte order", value=1
+Text            ____________ 3.0.2 connector interface = ABB.MODBUS_RTU.OPEN_DEVICE
+Text            ________________Connector: Id=2, role=Parent, name="Modbus RTU - Open Device", interface="ABB.MODBUS_RTU.OPEN_DEVICE", 0 parameters
+Text            ______2.1 Device: "CAN", 1 connectors
+Text            _________ 2.1.1 connector interface = ABB.CAN
+Text            ___________Connector: Id=1, role=Child, name="ABB.CAN", interface="ABB.CAN", 0 parameters
+Text            ______2.2 Device: "Ethernet", 4 connectors
+Text            _________ 2.2.1 connector interface = ABB.Ethernet
+Text            ___________Connector: Id=1, role=Child, name="Onboard Ethernet", interface="ABB.Ethernet", 8 parameters
+Text            _____________Parameter: Id=115, name="Delete config on Reset origin", value=0
+Text            _____________Parameter: Id=116, name="Reserve Word 1", value=0
+Text            _____________Parameter: Id=117, name="Reserve Word 2", value=0
+Text            _____________Parameter: Id=210, name="ETH1 / ETH2 mode", value=1
+Text            _____________Parameter: Id=11900, name="Checksum", value=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Text            _____________Parameter: Id=11901, name="Use CRC", value=0
+Text            _____________Parameter: Id=11904, name="Cfg version", value=1
+Text            _________ 2.2.2 connector interface = ABB.Ethernet.Onboard.IPSettings
+Text            ___________Connector: Id=2, role=Parent, name="IP Settings", interface="ABB.Ethernet.Onboard.IPSettings", 1 parameters
+Text            _____________Parameter: Id=11906, name="Interface index", value=0
+Text            _________ 2.2.3 connector interface = ABB.Ethernet.Onboard.IPSettings
+Text            ___________Connector: Id=3, role=Parent, name="IP Settings", interface="ABB.Ethernet.Onboard.IPSettings", 1 parameters
+Text            _____________Parameter: Id=11906, name="Interface index", value=1
+Text            _________ 2.2.4 connector interface = ABB.Ethernet.ClientProtocols
+Text            ___________Connector: Id=10, role=Parent, name="Client Protocols", interface="ABB.Ethernet.ClientProtocols", 0 parameters
+Text            _________3.0 Device: "ETH1", 3 connectors
+Text            ____________ 3.0.1 connector interface = ABB.Ethernet.Onboard.IPSettings
+Text            ________________Connector: Id=1, role=Child, name="IP Settings", interface="ABB.Ethernet.Onboard.IPSettings", 9 parameters
+Text            ________________Parameter: Id=11330, name="Use IP data", value=0
+Text            ________________Parameter: Id=11331, name="IP mode", value=0
+Text            ________________Parameter: Id=11332, name="Link mode", value=0
+Text            ________________Parameter: Id=11333, name="IP address", value=3232235530
+Text            ________________Parameter: Id=11334, name="Netmask", value=4294967040
+Text            ________________Parameter: Id=11335, name="Gateway", value=0
+Text            ________________Parameter: Id=11336, name="Web server active", value=0
+Text            ________________Parameter: Id=11337, name="Port", value=80
+Text            ________________Parameter: Id=11338, name="Connections", value=2
+Text            ____________ 3.0.2 connector interface = ABB.Ethernet.Onboard.Protocols
+Text            ________________Connector: Id=2, role=Parent, name="Ethernet Protocols", interface="ABB.Ethernet.Onboard.Protocols", 0 parameters
+Text            ____________ 3.0.3 connector interface = Common.Ethernet
+Text            ________________Connector: Id=3, role=Parent, name="Ethernet Device", interface="Common.Ethernet", 31 parameters
+Text            ________________Parameter: Id=0, name="IPAddress", value=[192,168,3,67]
+Text            ________________Parameter: Id=1, name="SubnetMask", value=[255, 255, 0, 0]
+Text            ________________Parameter: Id=2, name="GatewayAddress", value=[0, 0, 0, 0]
+Text            ________________Parameter: Id=3, name="TransferRate", value=0
+Text            ________________Parameter: Id=4, name="IPConfigMode", value=1
+Text            ________________Parameter: Id=5, name="DeviceName", value='myDevice'
+Text            ________________Parameter: Id=6, name="WebServer", value=true
+Text            ________________Parameter: Id=10, name="NetworkInterfaceName", value='ETH1'
+Text            ________________Parameter: Id=11, name="EtherNetProtocol", value=0
+Text            ________________Parameter: Id=12, name="NetworkInterfaceName", value="ETH1"
+Text            ________________Parameter: Id=13, name="SaveCommunicationSettings", value=false
+Text            ________________Parameter: Id=10000000, name="WebserverVisible", value=false
+Text            ________________Parameter: Id=10000001, name="NetworkInterfaceVisible", value=true
+Text            ________________Parameter: Id=10000002, name="OnlineStatusScreenEnabled", value=false
+Text            ________________Parameter: Id=10000004, name="UseAsyncTask", value=true
+Text            ________________Parameter: Id=20000000, name="Dummy Parameter", value=0
+Text            ____________4.0 Device: "NetConfig_6", 1 connectors
+Text            _______________ 4.0.1 connector interface = ABB.Ethernet.NetConfig
+Text            _____________________Connector: Id=1, role=Child, name="NetConfig", interface="ABB.Ethernet.NetConfig", 3 parameters
+Text            ___________________Parameter: Id=11342, name="Authentication needed", value=0
+Text            ___________________Parameter: Id=11343, name="Salt", value=0
+Text            ___________________Parameter: Id=11344, name="Password", value=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Text            ____________4.1 Device: "P4_OBE1_FTP", 1 connectors
+Text            _______________ 4.1.1 connector interface = ABB.Ethernet.FTP.Server
+Text            _____________________Connector: Id=1, role=Child, name="FTP Server", interface="ABB.Ethernet.FTP.Server", 7 parameters
+Text            ___________________Parameter: Id=1310, name="Security mode", value=1
+Text            ___________________Parameter: Id=11651, name="Port", value=21
+Text            ___________________Parameter: Id=11652, name="FTP sessions", value=2
+Text            ___________________Parameter: Id=11660, name="FTP salt", value='24362469344A506C523230436E592F34317677'
+Text            ___________________Parameter: Id=11662, name="Password user", value='24362469344A506C523230436E592F343176772432336350654541705155574451594F6A564A38786662762F344E6A36634F3477576A4E4734326A7079556B4370704E6869354D51627242613873546C4E5071725858514D2F7859566A775A5A39686F55383875786531'
+Text            ___________________Parameter: Id=11663, name="Password SD card", value='24362469344A506C523230436E592F343176772432336350654541705155574451594F6A564A38786662762F344E6A36634F3477576A4E4734326A7079556B4370704E6869354D51627242613873546C4E5071725858514D2F7859566A775A5A39686F55383875786531'
+Text            ___________________Parameter: Id=11664, name="Password system", value='24362469344A506C523230436E592F343176772432336350654541705155574451594F6A564A38786662762F344E6A36634F3477576A4E4734326A7079556B4370704E6869354D51627242613873546C4E5071725858514D2F7859566A775A5A39686F55383875786531'
+Text            ____________4.2 Device: "P4_OBE1_Modbus_TCP_IP_Server", 3 connectors
+Text            _______________ 4.2.1 connector interface = ABB.Ethernet.Modbus.Server
+Text            _____________________Connector: Id=1, role=Child, name="Modbus TCP/IP Server", interface="ABB.Ethernet.Modbus.Server", 9 parameters
+Text            ___________________Parameter: Id=11140, name="Disable write to %MBx from", value=0
+Text            ___________________Parameter: Id=11141, name="Disable write to %MBx to", value=0
+Text            ___________________Parameter: Id=11142, name="Disable read to %MBx from", value=0
+Text            ___________________Parameter: Id=11143, name="Disable read to %MBx to", value=0
+Text            ___________________Parameter: Id=11350, name="Server connections", value=0
+Text            ___________________Parameter: Id=11356, name="Byte order", value=1
+Text            ___________________Parameter: Id=11357, name="Port", value=502
+Text            ___________________Parameter: Id=11358, name="Startup behaviour", value=1
+Text            ___________________Parameter: Id=11359, name="Behaviour in state inactive", value=0
+Text            _______________ 4.2.2 connector interface = ABB.MODBUS_TCP.OPEN_DEVICE
+Text            _____________________Connector: Id=2, role=Parent, name="Modbus TCP - Open Device", interface="ABB.MODBUS_TCP.OPEN_DEVICE", 0 parameters
+Text            _______________ 4.2.3 connector interface = ABB.Ethernet.Modbus.Server.Client
+Text            _____________________Connector: Id=3, role=Parent, name="Modbus TCP/IP Client", interface="ABB.Ethernet.Modbus.Server.Client", 0 parameters
+Text            _________3.1 Device: "ETH2", 3 connectors
+Text            ____________ 3.1.1 connector interface = ABB.Ethernet.Onboard.IPSettings
+Text            ____________ 3.1.2 connector interface = ABB.Ethernet.Onboard.Protocols
+Text            ____________ 3.1.3 connector interface = Common.Ethernet
+Text            ________________Parameter: Id=0, name="IPAddress", value=[192,168,4,68]
+Text            ________________Parameter: Id=10, name="NetworkInterfaceName", value='ETH2'
+Text            ________________Parameter: Id=12, name="NetworkInterfaceName", value="ETH2"
+Text            ____________4.0 Device: "NetConfig_7", 1 connectors
+Text            ____________4.1 Device: "P4_OBE2_Web_Server", 1 connectors
+Text            _______________ 4.1.1 connector interface = ABB.Ethernet.Webserver
+Text            _____________________Connector: Id=1, role=Child, name="Web Server", interface="ABB.Ethernet.Webserver", 3 parameters
+Text            ___________________Parameter: Id=1300, name="HTTP Port", value=80
+Text            ___________________Parameter: Id=1301, name="HTTPS Port", value=443
+Text            ___________________Parameter: Id=1302, name="Security mode", value=3
+Text            _________3.2 Device: "Protocols", 2 connectors
+Text            ____________ 3.2.1 connector interface = ABB.Ethernet.ClientProtocols
+Text            ________________Connector: Id=1, role=Child, name="Client Protocols", interface="ABB.Ethernet.ClientProtocols", 0 parameters
+Text            ____________ 3.2.2 connector interface = ABB.Ethernet.ClientProtocols.List
+Text            ________________Connector: Id=2, role=Parent, name="Client Protocols", interface="ABB.Ethernet.ClientProtocols.List", 0 parameters
+Text            ____________4.0 Device: "P4_OBE_NTP_Client", 1 connectors
+Text            _______________ 4.0.1 connector interface = ABB.Ethernet.SNTP.Client
+Text            _____________________Connector: Id=1, role=Child, name="NTP Client configuration", interface="ABB.Ethernet.SNTP.Client", 17 parameters
+Text            ___________________Parameter: Id=1100, name="Server 1 - Enable", value=1
+Text            ___________________Parameter: Id=1101, name="Server 1 - IP Address", value=0
+Text            ___________________Parameter: Id=1102, name="Server 1 - Minimum poll interval", value=6
+Text            ___________________Parameter: Id=1103, name="Server 1 - Maximum poll interval", value=10
+Text            ___________________Parameter: Id=1104, name="Server 2 - Enable", value=0
+Text            ___________________Parameter: Id=1105, name="Server 2 - IP Address", value=0
+Text            ___________________Parameter: Id=1106, name="Server 2 - Minimum poll interval", value=6
+Text            ___________________Parameter: Id=1107, name="Server 2 - Maximum poll interval", value=10
+Text            ___________________Parameter: Id=1108, name="Time Jumps - Enable", value=1
+Text            ___________________Parameter: Id=1109, name="Time Jumps - Threshold", value=1.0
+Text            ___________________Parameter: Id=1110, name="Time Jumps - Limit", value=-1
+Text            ___________________Parameter: Id=1111, name="Maximum change - Enable", value=1
+Text            ___________________Parameter: Id=1112, name="Maximum change - Offset", value=3600
+Text            ___________________Parameter: Id=1113, name="Maximum change - Start", value=3
+Text            ___________________Parameter: Id=1114, name="Maximum change - Ignore", value=-1
+Text            ___1.3 Device: "Extension_Bus", 3 connectors
+Text            ______ 1.3.1 connector interface = ABB.ExtensionBus
+Text            ______Connector: Id=1, role=Child, name="Extension Bus", interface="ABB.ExtensionBus", 0 parameters
+Text            ______ 1.3.2 connector interface = ABB.ExtensionBus.Slot1
+Text            ______Connector: Id=2, role=Parent, name="Slot 1", interface="ABB.ExtensionBus.Slot1", 0 parameters
+Text            ______ 1.3.3 connector interface = ABB.ExtensionBus.Slot2
+Text            ______Connector: Id=3, role=Parent, name="Slot 2", interface="ABB.ExtensionBus.Slot2", 0 parameters
+Text            ______2.0 Device: "P4_C1_CM592_DP", 2 connectors
+Text            _________ 2.0.1 connector interface = ABB.CommunicationModule
+Text            ___________Connector: Id=1, role=Child, name="CM592-DP", interface="ABB.CommunicationModule", 7 parameters
+Text            _____________Parameter: Id=666, name="Bus behavior", value=1
+Text            _____________Parameter: Id=667, name="Slot number", value=1
+Text            _____________Parameter: Id=11901, name="Use Checksum", value=1
+Text            _____________Parameter: Id=11904, name="Cfg version", value=0
+Text            _____________Parameter: Id=2415919104, name="Diagnosis Text List Name", value='Diag_PB'
+Text            _________ 2.0.2 connector interface = ABB.PROFIBUS.Master.NetX.AC500
+Text            ___________Connector: Id=2, role=Parent, name="PROFIBUS DP", interface="ABB.PROFIBUS.Master.NetX.AC500", 0 parameters
+Text            _________3.0 Device: "Profibus_Master", 2 connectors
+Text            ____________ 3.0.1 connector interface = ABB.PROFIBUS.Master.NetX.AC500
+Text            ________________Connector: Id=0, role=Child, name="PROFIBUS DP", interface="ABB.PROFIBUS.Master.NetX.AC500", 0 parameters
+Text            ____________ 3.0.2 connector interface = Common.DP
+Text            ________________Connector: Id=1, role=Parent, name="PROFIBUS DP", interface="Common.DP", 32 parameters
+Text            ________________Parameter: Id=327680, name="DpParameter", value={24, 1, 9, 1000, 11, 800, 9, 16, 6647, 10, 126, 4, 0, 10, 10, 600}
+Text            _______________________Subparameter: Identifer =busParaLen, value=24
+Text            _______________________Subparameter: Identifer =fdlAdd, value=1
+Text            _______________________Subparameter: Identifer =baudrate, value=9
+Text            _______________________Subparameter: Identifer =tSlot, value=1000
+Text            _______________________Subparameter: Identifer =minTsdr, value=11
+Text            _______________________Subparameter: Identifer =maxTsdr, value=800
+Text            _______________________Subparameter: Identifer =tQui, value=9
+Text            _______________________Subparameter: Identifer =tSetup, value=16
+Text            _______________________Subparameter: Identifer =ttr, value=6647
+Text            _______________________Subparameter: Identifer =g, value=10
+Text            _______________________Subparameter: Identifer =hsa, value=126
+Text            _______________________Subparameter: Identifer =maxRetryLimit, value=4
+Text            _______________________Subparameter: Identifer =bpFlag, value=0
+Text            _______________________Subparameter: Identifer =minSlaveInterval, value=10
+Text            _______________________Subparameter: Identifer =pollTimeout, value=10
+Text            _______________________Subparameter: Identifer =dataControlTime, value=600
+Text            ________________Parameter: Id=327681, name="AutoStart", value=TRUE
+Text            ________________Parameter: Id=458753, name="DefaultsTqui", value={0, 0, 0, 0, 0, 0, 0, 0, 3, 6, 9}
+Text            _______________________Subparameter: Identifer =Baudrate9600, value=0
+Text            _______________________Subparameter: Identifer =Baudrate19200, value=0
+Text            _______________________Subparameter: Identifer =Baudrate31250, value=0
+Text            _______________________Subparameter: Identifer =Baudrate45450, value=0
+Text            _______________________Subparameter: Identifer =Baudrate93750, value=0
+Text            _______________________Subparameter: Identifer =Baudrate187500, value=0
+Text            _______________________Subparameter: Identifer =Baudrate500000, value=0
+Text            _______________________Subparameter: Identifer =Baudrate1500000, value=0
+Text            _______________________Subparameter: Identifer =Baudrate3000000, value=3
+Text            _______________________Subparameter: Identifer =Baudrate6000000, value=6
+Text            _______________________Subparameter: Identifer =Baudrate12000000, value=9
+Text            ________________Parameter: Id=458754, name="DefaultsTrdy", value={11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11}
+Text            _______________________Subparameter: Identifer =Baudrate9600, value=11
+Text            _______________________Subparameter: Identifer =Baudrate19200, value=11
+Text            _______________________Subparameter: Identifer =Baudrate31250, value=11
+Text            _______________________Subparameter: Identifer =Baudrate45450, value=11
+Text            _______________________Subparameter: Identifer =Baudrate93750, value=11
+Text            _______________________Subparameter: Identifer =Baudrate187500, value=11
+Text            _______________________Subparameter: Identifer =Baudrate500000, value=11
+Text            _______________________Subparameter: Identifer =Baudrate1500000, value=11
+Text            _______________________Subparameter: Identifer =Baudrate3000000, value=11
+Text            _______________________Subparameter: Identifer =Baudrate6000000, value=11
+Text            _______________________Subparameter: Identifer =Baudrate12000000, value=11
+Text            ________________Parameter: Id=458755, name="DefaultsTsdi", value={70, 70, 70, 70, 70, 70, 150, 200, 250, 450, 800}
+Text            _______________________Subparameter: Identifer =Baudrate9600, value=70
+Text            _______________________Subparameter: Identifer =Baudrate19200, value=70
+Text            _______________________Subparameter: Identifer =Baudrate31250, value=70
+Text            _______________________Subparameter: Identifer =Baudrate45450, value=70
+Text            _______________________Subparameter: Identifer =Baudrate93750, value=70
+Text            _______________________Subparameter: Identifer =Baudrate187500, value=70
+Text            _______________________Subparameter: Identifer =Baudrate500000, value=150
+Text            _______________________Subparameter: Identifer =Baudrate1500000, value=200
+Text            _______________________Subparameter: Identifer =Baudrate3000000, value=250
+Text            _______________________Subparameter: Identifer =Baudrate6000000, value=450
+Text            _______________________Subparameter: Identifer =Baudrate12000000, value=800
+Text            ________________Parameter: Id=458756, name="DefaultsTset", value={1, 1, 1, 1, 1, 1, 1, 1, 4, 8, 16}
+Text            _______________________Subparameter: Identifer =Baudrate9600, value=1
+Text            _______________________Subparameter: Identifer =Baudrate19200, value=1
+Text            _______________________Subparameter: Identifer =Baudrate31250, value=1
+Text            _______________________Subparameter: Identifer =Baudrate45450, value=1
+Text            _______________________Subparameter: Identifer =Baudrate93750, value=1
+Text            _______________________Subparameter: Identifer =Baudrate187500, value=1
+Text            _______________________Subparameter: Identifer =Baudrate500000, value=1
+Text            _______________________Subparameter: Identifer =Baudrate1500000, value=1
+Text            _______________________Subparameter: Identifer =Baudrate3000000, value=4
+Text            _______________________Subparameter: Identifer =Baudrate6000000, value=8
+Text            _______________________Subparameter: Identifer =Baudrate12000000, value=16
+Text            ________________Parameter: Id=458757, name="DefaultsMaxTsdr", value={60, 60, 60, 60, 60, 60, 100, 150, 250, 450, 800}
+Text            _______________________Subparameter: Identifer =Baudrate9600, value=60
+Text            _______________________Subparameter: Identifer =Baudrate19200, value=60
+Text            _______________________Subparameter: Identifer =Baudrate31250, value=60
+Text            _______________________Subparameter: Identifer =Baudrate45450, value=60
+Text            _______________________Subparameter: Identifer =Baudrate93750, value=60
+Text            _______________________Subparameter: Identifer =Baudrate187500, value=60
+Text            _______________________Subparameter: Identifer =Baudrate500000, value=100
+Text            _______________________Subparameter: Identifer =Baudrate1500000, value=150
+Text            ________________Parameter: Id=458758, name="DefaultPollTime", value=10
+Text            ________________Parameter: Id=458760, name="ClearOnStop", value=FALSE
+Text            ________________Parameter: Id=524288, name="UseDefaults", value=TRUE
+Text            ________________Parameter: Id=524289, name="DefaultSlaveWatchdogTime", value={2500, 2000, 1800, 1600, 1200, 1000, 600, 400, 250, 150, 100}
+Text            _______________________Subparameter: Identifer =Baudrate9600, value=2500
+Text            _______________________Subparameter: Identifer =Baudrate19200, value=2000
+Text            _______________________Subparameter: Identifer =Baudrate31250, value=1800
+Text            _______________________Subparameter: Identifer =Baudrate45450, value=1600
+Text            _______________________Subparameter: Identifer =Baudrate93750, value=1200
+Text            _______________________Subparameter: Identifer =Baudrate187500, value=1000
+Text            _______________________Subparameter: Identifer =Baudrate500000, value=600
+Text            _______________________Subparameter: Identifer =Baudrate1500000, value=400
+Text            _______________________Subparameter: Identifer =Baudrate6000000, value=150
+Text            _______________________Subparameter: Identifer =Baudrate12000000, value=100
+Text            ________________Parameter: Id=524290, name="DefaultDataControlTime", value={15000, 12000, 10800, 9600, 7200, 6000, 3600, 2400, 1500, 900, 600}
+Text            _______________________Subparameter: Identifer =Baudrate9600, value=15000
+Text            _______________________Subparameter: Identifer =Baudrate19200, value=12000
+Text            _______________________Subparameter: Identifer =Baudrate31250, value=10800
+Text            _______________________Subparameter: Identifer =Baudrate45450, value=9600
+Text            _______________________Subparameter: Identifer =Baudrate93750, value=7200
+Text            _______________________Subparameter: Identifer =Baudrate187500, value=6000
+Text            _______________________Subparameter: Identifer =Baudrate500000, value=3600
+Text            _______________________Subparameter: Identifer =Baudrate1500000, value=2400
+Text            _______________________Subparameter: Identifer =Baudrate3000000, value=1500
+Text            _______________________Subparameter: Identifer =Baudrate6000000, value=900
+Text            _______________________Subparameter: Identifer =Baudrate12000000, value=600
+Text            ________________Parameter: Id=2147491840, name="AlarmMax", value=32
+Text            ________________Parameter: Id=2147491841, name="MaxUserGlobalControl", value=16
+Text            ________________Parameter: Id=2147491842, name="MasterUserDataLen", value=32
+Text            ________________Parameter: Id=2147491843, name="MasterClass2Name", value=
+Text            ________________Parameter: Id=2147491844, name="MasterUserData", value=[16#AC, 16#34, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Text            ________________Parameter: Id=2147491845, name="Tct", value=0
+Text            ________________Parameter: Id=2147491846, name="MaxTsh", value=0
+Text            ________________Parameter: Id=2147491847, name="MasterSetting", value=0
+Text            ____________4.0 Device: "P4_C1_B1_CI542_DP", 3 connectors
+Text            _______________ 4.0.1 connector interface = Common.DP
+Text            _____________________Connector: Id=1, role=Child, name="PROFIBUS Slave", interface="Common.DP", 13 parameters
+Text            ___________________Parameter: Id=327680, name="SlavePrmData", value={184, 1, 10, 11, [52,170], , {[128,0,0,0,1,0,0,0]}}
+Text            ___________________________Subparameter: Identifer =stationStatus, value=184
+Text            ___________________________Subparameter: Identifer =wdFact1, value=1
+Text            ___________________________Subparameter: Identifer =wdFact2, value=10
+Text            ___________________________Subparameter: Identifer =minTsdr, value=11
+Text            ___________________________Subparameter: Identifer =identNumber, value=[52,170]
+Text            ___________________________Subparameter: Identifer =group, value=
+Text            ___________________________Subparameter: Identifer =userPrmData, value={[128,0,0,0,1,0,0,0]}
+Text            _______________________________Subparameter: Identifer =userParameter, value=[128,0,0,0,1,0,0,0]
+Text            ___________________Parameter: Id=327681, name="StationAddress", value=2
+Text            ___________________Parameter: Id=327682, name="SlaveParams", value={168, 0, 15, 0, 244, 0, 0, , [0,0,0,0,0,0]}
+Text            ___________________________Subparameter: Identifer =slFlag, value=168
+Text            ___________________________Subparameter: Identifer =slaveType, value=0
+Text            ___________________________Subparameter: Identifer =maxDiagDataLen, value=15
+Text            ___________________________Subparameter: Identifer =maxAlarmLen, value=0
+Text            ___________________________Subparameter: Identifer =maxChannelDataLen, value=244
+Text            ___________________________Subparameter: Identifer =diagUpdDelay, value=0
+Text            ___________________________Subparameter: Identifer =alarmMode, value=0
+Text            ___________________________Subparameter: Identifer =addSlFlag, value=
+Text            ___________________________Subparameter: Identifer =reserved, value=[0,0,0,0,0,0]
+Text            ___________________Parameter: Id=524288, name="SymbolicValues", value=TRUE
+Text            ___________________Parameter: Id=2415919104, name="Diagnosis Text List Name", value='Diag_PB'
+Text            _______________ 4.0.2 connector interface = ABB.PROFIBUS.OnboardIO
+Text            _____________________Connector: Id=2, role=Parent, name="CI542", interface="ABB.PROFIBUS.OnboardIO", 0 parameters
+Text            _______________ 4.0.3 connector interface = ABB.PROFIBUS.Module
+Text            _____________________Connector: Id=3, role=Parent, name="DP-Module", interface="ABB.PROFIBUS.Module", 0 parameters
+Text            _______________5.0 Device: "CI542_IO", 1 connectors
+Text            __________________ 5.0.1 connector interface = ABB.PROFIBUS.OnboardIO
+Text            __________________________Connector: Id=1, role=Child, name="DP-Module", interface="ABB.PROFIBUS.OnboardIO", 23 parameters
+Text            ___________________________IO mapping_Parameter: Identifer = 1, IO_Mapping_variable = None, value = {, , , , , , , }
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit0, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit1, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit2, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit3, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit4, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit5, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit6, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Bit7, IO_Mapping_variable = None, value =
+Text            ___________________________IO mapping_Parameter: Identifer = 2, IO_Mapping_variable = byP4_C1_B1_M1_CI542_DI0_7, value = {, , , , , , , }
+Text            ___________________________IO mapping_Parameter: Identifer = 3, IO_Mapping_variable = None, value = {{, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }}
+Text            _______________________________IO mapping_Subparameter: Identifer = Word0, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit0, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit1, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit2, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit3, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit4, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit5, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit6, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit7, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit8, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit9, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit10, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit11, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit12, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit13, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit14, IO_Mapping_variable = None, value =
+Text            ___________________________________IO mapping_Subparameter: Identifer = Bit15, IO_Mapping_variable = None, value =
+Text            _______________________________IO mapping_Subparameter: Identifer = Word1, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            _______________________________IO mapping_Subparameter: Identifer = Word2, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            _______________________________IO mapping_Subparameter: Identifer = Word3, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            ___________________________IO mapping_Parameter: Identifer = 4, IO_Mapping_variable = None, value = {{, , , , , , , }, {, , , , , , , }}
+Text            _______________________________IO mapping_Subparameter: Identifer = Byte0, IO_Mapping_variable = None, value = {, , , , , , , }
+Text            _______________________________IO mapping_Subparameter: Identifer = Byte1, IO_Mapping_variable = None, value = {, , , , , , , }
+Text            ___________________________IO mapping_Parameter: Identifer = 65537, IO_Mapping_variable = None, value = {, , , , , , , }
+Text            ___________________________IO mapping_Parameter: Identifer = 65538, IO_Mapping_variable = byP4_C1_B1_M1_CI542_DO0_7, value = {, , , , , , , }
+Text            ___________________________IO mapping_Parameter: Identifer = 65539, IO_Mapping_variable = None, value = {{, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }, {, , , , , , , , , , , , , , , }}
+Text            _______________________________IO mapping_Subparameter: Identifer = Word4, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            _______________________________IO mapping_Subparameter: Identifer = Word5, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            _______________________________IO mapping_Subparameter: Identifer = Word6, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            _______________________________IO mapping_Subparameter: Identifer = Word7, IO_Mapping_variable = None, value = {, , , , , , , , , , , , , , , }
+Text            ___________________________IO mapping_Parameter: Identifer = 65540, IO_Mapping_variable = None, value = {{, , , , , , , }, {, , , , , , , }}
+Text            ______________________Parameter: Id=327681, name="ExtPrmData", value={[28,37,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,1,1]}
+Text            _______________________________Subparameter: Identifer =userParameter, value=[28,37,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,1,1]
+Text            ______________________Parameter: Id=524288, name="SymbolicValues", value=TRUE
+Text            ______________________Parameter: Id=2415919104, name="Diagnosis Text List Name", value='Diag_PB'
+Text            ______2.1 Device: "Slot_2", 1 connectors
+Text            _________ 2.1.1 connector interface = ABB.ExtensionBus.Slot2
+Text            ___________Connector: Id=1, role=Child, name="ABB.ExtensionBus.Slot2", interface="ABB.ExtensionBus.Slot2", 0 parameters
+Text            ______________________Parameter: Id=327681, name="ExtPrmData", value={[28,37,0,31,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,1,1]}
+Text            _______________________________Subparameter: Identifer =userParameter, value=[28,37,0,31,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,1,1]
